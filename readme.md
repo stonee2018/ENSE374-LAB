@@ -1,5 +1,5 @@
-** BOLD writing **
+**BOLD writing**
 
-* Italic writing *
+*Italic writing*
 
-~~ strikethrough the writing ~~
+~~strikethrough the writing~~
